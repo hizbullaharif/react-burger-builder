@@ -1,0 +1,6 @@
+[submodule "raect-practice-project-bargar"]
+	path = raect-practice-project-bargar
+	url = https://github.com/ZohaibNaseer786/raect-practice-project-bargar
+[submodule "clientside/clientside"]
+	path = clientside/clientside
+	url = https://github.com/hizbullaharif/clientside
